@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>Kafka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo4</name>
-    <description>demo4</description>
+    <name>Kafka</name>
+    <description>Kafka</description>
     <url/>
     <licenses>
         <license/>
